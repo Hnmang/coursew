@@ -1,0 +1,91 @@
+.navbar-light .navbar-nav .nav-link {
+  color: #FFFFFF;
+}
+
+.collapse {
+  
+  position: absolute;
+  top: 100%;
+  left: 50%;
+  margin-right: -50%;
+  transform: translate(-50%, -50%)
+}
+
+/* Мониторинг IT кадров */
+.container-fluid h1 {
+  position: absolute;
+  width: 675px;
+  height: 75px;
+  left: 100px;
+  top: 118px;
+  
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 64px;
+  line-height: 75px;
+  /* identical to box height */
+  
+  
+  color: #FFFFFF;
+  
+  
+/* identical to box height */
+
+}
+/* Сфера IT - одно из самых быстро развивающихся направлений */
+ .container-fluid p1 {
+
+  position: absolute;
+  width: 726px;
+  height: 28px;
+  left: 100px;
+  top: 222px;
+  
+  font-family: 'Raleway';
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 28px;
+  
+  color: #FFFFFF;
+  
+ }
+ /* Время не стоит на месте, вместе с этим растет и потребность в IT кадрах... */
+
+ .container-fluid p2 {
+  position: absolute;
+width: 857px;
+height: 112px;
+left: 100px;
+top: 280px;
+
+font-family: 'Raleway';
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 28px;
+
+color: #FFFFFF;
+
+ }
+ /*map*/
+ .container-fluid img {
+  position: absolute;
+width: 802.52px;
+height: 414.18px;
+left: 100px;
+top: 421px;
+  
+ }  
+ .vector {
+  background: url(../img/Vector.svg);
+  width: 500px;
+  height: 500px;
+  background-repeat: no-repeat;
+  position: absolute;
+  height: 353px;
+  left: 1048px;
+  top: 678px;
+  width: 392px;
+ }
